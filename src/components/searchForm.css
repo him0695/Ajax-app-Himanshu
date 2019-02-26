@@ -1,0 +1,23 @@
+.searchForm{
+    width:60%;
+    margin:auto;
+    border: 1px solid #ee3;
+    box-shadow: 0 2px 3 px #000000;
+    padding:16px;
+    text-align: center;
+    display: inline-block;
+}
+.trackList{
+    width:60%;
+    margin:auto;
+    border: 1px solid #ee3;
+    box-shadow: 0 2px 3 px #000000;
+    padding:25px;
+    text-align: left;
+    display: inline-block;
+}
+.searchBtn{
+    border: 2px dotted #B81919;
+    margin-top: 10px; 
+    padding-top: 10px;
+}
